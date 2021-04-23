@@ -22,5 +22,14 @@
     "mongoose": "^5.11.8",
     "multer": "^2.0.0-rc.1",
     "nodemon": "^2.0.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinsPereira/MusicPlayer-ServerSide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MartinsPereira/MusicPlayer-ServerSide/issues"
+  },
+  "homepage": "https://github.com/MartinsPereira/MusicPlayer-ServerSide#readme"
 }
